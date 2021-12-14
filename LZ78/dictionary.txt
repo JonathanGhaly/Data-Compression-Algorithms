@@ -1,0 +1,9 @@
+1 A
+2 B
+3 AA
+4 BA
+5 BAA
+6 BAB
+7 BB
+8 BBB
+9 BBBB
