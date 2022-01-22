@@ -4,7 +4,9 @@
 Data: 
 > ABAABABAABABBBBBBBBBBA 
 ###
-Compression tag:
+Compressed data tags:
+![image](https://github.com/JonathanGhaly/Data-Compression-Algorithms/blob/main/LZ77/lz77c.png)
+
 > , LZ78
 > , LZW
 > , Huffman
