@@ -14,20 +14,25 @@ Data:
 ####
 Compressed data tags:
 ####
->0 A
-0 B
-1 A
-2 A
-4 A
-4 B
-2 B
-7 B
-8 B
-1 null
+> ![image](https://github.com/JonathanGhaly/Data-Compression-Algorithms/blob/main/LZ77/lz78c.png)
+####
+Dictionary:
+####
+> ![image](https://github.com/JonathanGhaly/Data-Compression-Algorithms/blob/main/LZ78/lz77d.png)
+####  
+###LZW:
+Data:
+> ABAABABAABABBBBBBBBBBA
+####
+Compressed data tags:
+####
+> ![image](https://github.com/JonathanGhaly/Data-Compression-Algorithms/blob/main/LZW/lzwc.png)
+####
+### Huffman:
 
-###LZW
-### Huffman
-### Adaptive Huffman
-### Arithmatic Floating Point
+### Adaptive Huffman:
+
+### Arithmatic Floating Point:
+
 ## Image compression:
-> Vector Quantization
+### Vector Quantization:
