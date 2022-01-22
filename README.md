@@ -14,11 +14,11 @@ Data:
 ####
 Compressed data tags:
 ####
-> ![image](https://github.com/JonathanGhaly/Data-Compression-Algorithms/blob/main/LZ77/lz78c.png)
+> ![image](https://github.com/JonathanGhaly/Data-Compression-Algorithms/blob/main/LZ78/lz78c.png)
 ####
 Dictionary:
 ####
-> ![image](https://github.com/JonathanGhaly/Data-Compression-Algorithms/blob/main/LZ78/lz77d.png)
+> ![image](https://github.com/JonathanGhaly/Data-Compression-Algorithms/blob/main/LZ78/lz78d.png)
 ####  
 ###LZW:
 Data:
