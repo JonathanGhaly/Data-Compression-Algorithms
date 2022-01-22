@@ -1,6 +1,10 @@
 # Data-Compression-Algorithms
 ## String compression Algorithms:
-> LZ77
+### LZ77:
+Data: 
+> ABAABABAABABBBBBBBBBBA
+Compression tag:
+
 > , LZ78
 > , LZW
 > , Huffman
