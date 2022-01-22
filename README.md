@@ -35,11 +35,23 @@ Data:
 Dictionary:
 > A 001, C 10011, D 0100, E 101, H 1000, I 1111, L 0101, N 1110, O 000, R 1100, S 1101, T 011, U 10010
 ####
-
-
 ### Adaptive Huffman:
-
+Data:
+> ABCCCAAAA
+####
+Data compressed:
+> 010000010010000100001000011101000101110
+###
 ### Arithmatic Floating Point:
-
+#### Compression:
+Data:
+> ACBA
+Compressed data:
+> ![image](https://github.com/JonathanGhaly/Data-Compression-Algorithms/blob/main/LZW/lz1.png)
 ## Image compression:
 ### Vector Quantization:
+Image to compress:
+> ![image](https://github.com/JonathanGhaly/Data-Compression-Algorithms/blob/main/Vector%20Quantization/compress.jpg)
+####
+Compressed image:
+> ![image](https://github.com/JonathanGhaly/Data-Compression-Algorithms/blob/main/Vector%20Quantization/decompressed2.jpg)
