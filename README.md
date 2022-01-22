@@ -47,7 +47,7 @@ Data compressed:
 Data:
 > ACBA
 Compressed data:
-> ![image](https://github.com/JonathanGhaly/Data-Compression-Algorithms/blob/main/LZW/lz1.png)
+> ![image](https://github.com/JonathanGhaly/Data-Compression-Algorithms/blob/main/Arithamtic%20floating%20point/Screenshot%202022-01-22%20215727.png)
 ## Image compression:
 ### Vector Quantization:
 Image to compress:
