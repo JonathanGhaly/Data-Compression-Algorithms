@@ -20,7 +20,7 @@ Dictionary:
 ####
 > ![image](https://github.com/JonathanGhaly/Data-Compression-Algorithms/blob/main/LZ78/lz78d.png)
 ####  
-###LZW:
+### LZW:
 Data:
 > ABAABABAABABBBBBBBBBBA
 ####
