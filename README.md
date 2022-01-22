@@ -2,7 +2,7 @@
 ## String compression Algorithms:
 ### LZ77:
 Data: 
-> ABAABABAABABBBBBBBBBBA
+> ABAABABAABABBBBBBBBBBA <
 Compression tag:
 
 > , LZ78
